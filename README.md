@@ -27,6 +27,9 @@ Project: A Timelock dapp that will lock x tokens for x amount of time.
 5 directories, 17 files
 
 
+
+To test locally use "truffle develop test" in directory.
+
 frontend can be accessed at: blacepo.github.io
 
 Public eth address - 0x776F5f3b901D44268A262d40E003a9B852AdA10a
